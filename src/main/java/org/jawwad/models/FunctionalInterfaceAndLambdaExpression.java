@@ -10,14 +10,6 @@ interface Adder{
     int add(int a, int b);
 }
 
-class Animal implements Runner{
-
-    @Override
-    public void run(int speed) {
-        System.out.println("Animal is running");
-    }
-}
-
 public class FunctionalInterfaceAndLambdaExpression {
 
     public static void main(String[] args){
