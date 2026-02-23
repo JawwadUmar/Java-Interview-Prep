@@ -1,4 +1,4 @@
-package org.jawwad.models;
+package org.jawwad.exceptionhandle;
 
 
 class CustomException extends Exception{

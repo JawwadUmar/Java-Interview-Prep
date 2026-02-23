@@ -1,4 +1,4 @@
-package org.jawwad.models;
+package org.jawwad.streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;

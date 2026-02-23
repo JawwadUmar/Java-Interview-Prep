@@ -1,4 +1,4 @@
-package org.jawwad.models;
+package org.jawwad.lambdaexp;
 
 @FunctionalInterface
 interface Runner{
