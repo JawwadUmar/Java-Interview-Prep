@@ -2,7 +2,7 @@ package org.jawwad.codeforces;
 
 import java.util.Scanner;
 
-public class Main {
+public class B_KiaKio_and_Squared_Numbers {
 
     private int calculateSqSum(int x){
         int res = 0;
@@ -54,7 +54,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        Main obj = new Main();
+        B_KiaKio_and_Squared_Numbers obj = new B_KiaKio_and_Squared_Numbers();
         while (t>0){
             obj.solve(sc);
             t--;
